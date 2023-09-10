@@ -90,7 +90,7 @@ nav ul li a{
 
 /* banner  */
 .banner{
-    background-image: url('/images/play-bg.png');
+    background-image: url('images/play-bg.png');
     background-repeat: no-repeat;
     background-position: left center;
     background-size: contain;
@@ -160,7 +160,7 @@ nav ul li a{
     text-align: right;
 }
 .animation-demo{
-    background-image: url('/images/animation.png');
+    background-image: url('images/animation.png');
     background-repeat: no-repeat;
     background-position: top center;
     width: 634.833px;
